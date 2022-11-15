@@ -1,1 +1,1 @@
-# aircnc-starter
+# aircnc-booking-app
